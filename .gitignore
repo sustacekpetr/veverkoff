@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log*
+.env
+
+# Vite
+dist/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Systémové
+.DS_Store
+Thumbs.db
